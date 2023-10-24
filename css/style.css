@@ -4,24 +4,52 @@
     padding: 38px 130px;
     margin: 0 auto;
 }
-.header_logo{
+
+.header_logo {
     display: inline-block;
     border-radius: 25px;
     background-color: #FFF;
     padding: 10px 12.614px 10px 13px;
 }
-.header_list{
+
+.header_list {
     display: inline-block;
 }
-.nav, .header_logo{
+
+.nav,
+.header_logo {
     display: inline-block;
     vertical-align: middle;
 }
-.nav{
+
+.nav {
     font-family: 'Nerko One', cursive;
     padding-left: 861px;
 }
-.mid_header{
+
+.mid_header {
     padding-left: 51px;
     padding-right: 51px;
+}
+
+/* article */
+.article {
+    width: 780px;
+    margin: 200px auto;
+}
+
+.article_header {
+    font-family: 'Poppins', sans-serif;
+    color: #4D4D4D;
+    font-size: 48px;
+    text-align: center;
+}
+
+.article_txt {
+    font-family: 'Nerko One', cursive;
+    color: #656565;
+    font-size: 20px;
+}
+.article_mid{
+    margin: 60px 0 52px 0;
 }
