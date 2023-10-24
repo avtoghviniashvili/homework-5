@@ -17,3 +17,11 @@
     display: inline-block;
     vertical-align: middle;
 }
+.nav{
+    font-family: 'Nerko One', cursive;
+    padding-left: 861px;
+}
+.mid_header{
+    padding-left: 51px;
+    padding-right: 51px;
+}
