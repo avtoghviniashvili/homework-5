@@ -1,0 +1,19 @@
+/* header */
+.header {
+    background-color: #2A9D8F;
+    padding: 38px 130px;
+    margin: 0 auto;
+}
+.header_logo{
+    display: inline-block;
+    border-radius: 25px;
+    background-color: #FFF;
+    padding: 10px 12.614px 10px 13px;
+}
+.header_list{
+    display: inline-block;
+}
+.nav, .header_logo{
+    display: inline-block;
+    vertical-align: middle;
+}
